@@ -39,7 +39,7 @@ The key features are:
 * **Extensible**: You have all the power of SQLAlchemy and Pydantic underneath.
 * **Short**: Minimize code duplication. A single type annotation does a lot of work. No need to duplicate models in SQLAlchemy and Pydantic.
 
-## SQL Databases in FastAPI
+# SQL Databases in FastAPI
 
 <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" style="width: 20%;"></a>
 
